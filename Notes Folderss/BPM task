@@ -1,0 +1,21 @@
+customer application form
+---------------------------
+1- name (string)
+2- fatherName(string)
+3- age(Int)
+4- income(Decimal)
+5- dob(Date)
+6- address(string)
+
+
+ C R Application Verification
+-------------------------
+
+- customer Data +
+- Is Form Ok?(C R verification approval) 
+
+Manager verifacation
+---------------------
+- C R Application Verification +
+- Manager Approval
+ 
